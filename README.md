@@ -1,4 +1,4 @@
-# Arma-3-Altis-Life
+# Arma-3 Life Files
 IG Life 
-Altis Life Server Edited by BlackWidow.
+Altis Life Server
 
